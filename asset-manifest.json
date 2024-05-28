@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.aa7c5d9e.css",
+    "main.js": "/static/js/main.7883736d.js",
+    "static/js/453.ee0c8a2f.chunk.js": "/static/js/453.ee0c8a2f.chunk.js",
+    "static/media/vedicmath.jpg": "/static/media/vedicmath.dc9f15ab031d760435c0.jpg",
+    "static/media/ches.jpg": "/static/media/ches.c0522ed44dd09620f322.jpg",
+    "static/media/banner.png": "/static/media/banner.35f6b3956796407952a8.png",
+    "static/media/vedic.png": "/static/media/vedic.0878c89e5452cd5c885b.png",
+    "static/media/test1.png": "/static/media/test1.0997b4c39d081a1c97ad.png",
+    "static/media/chess.png": "/static/media/chess.ce2e966c17b956858927.png",
+    "static/media/LOGO.png": "/static/media/LOGO.8d7e76343b941b4a0598.png",
+    "static/media/time.jpeg": "/static/media/time.9562b3b0184c116e6573.jpeg",
+    "static/media/ladder.jpeg": "/static/media/ladder.d6672404dab23493429a.jpeg",
+    "index.html": "/index.html",
+    "main.aa7c5d9e.css.map": "/static/css/main.aa7c5d9e.css.map",
+    "main.7883736d.js.map": "/static/js/main.7883736d.js.map",
+    "453.ee0c8a2f.chunk.js.map": "/static/js/453.ee0c8a2f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa7c5d9e.css",
+    "static/js/main.7883736d.js"
+  ]
+}
